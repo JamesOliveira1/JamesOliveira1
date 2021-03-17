@@ -8,7 +8,7 @@
 
 - ▶️ I'm currently taking classes and helping others on various projects 
 
-- 🌱 I’m learning ... **JavaScript, HTML, CSS, UI UX Design, Bootstrap, React, Phyton **
+- 🌱 I’m learning ... **JavaScript, HTML, CSS, UI UX Design, React and Phyton **
 
 - 📫 How to reach me **escrevaparajames@hotmail.com**
 
