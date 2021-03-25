@@ -4,7 +4,7 @@
 
 - 🔭 I’m looking for a job at [Linkedin profile](https://www.linkedin.com/in/jamesoliveira1/)
 
-- 👨‍💻 All of my projects are available here [My github](https://github.com/JamesOliveira1)
+- 👨‍💻 All of my projects will be available here [My github](https://github.com/JamesOliveira1)
 
 - ▶️ I'm currently taking classes and helping others on various projects 
 
