@@ -1,27 +1,27 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm James</h1>
-<h3 align="center">A Beginner Web Developer focused on Frontend</h3>
+<h3 align="center">A Beginner Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JamesOliveira1" alt="JamesOliveira1" /> </p>
 
-- 🔭 I’m looking for a job at [Linkedin profile](https://www.linkedin.com/in/jamesoliveira1/)
+- 🔭 I’m looking for a job anywhere at [Linkedin profile](https://www.linkedin.com/in/jamesoliveira1/)
 
 - 👨‍💻 All of my projects will be available here [Github profile](https://github.com/JamesOliveira1)
 
-- ▶️ I'm currently taking classes and helping others on various projects 
+- ▶️ I'm dedicated person and I can learn anything 
 
-- 🌱 I’m learning ... **JavaScript, HTML, CSS, UI UX Design, React and Phyton **
+- 🌱 I’m learning ... **C#, Angular, Bootstrap, Jquery, JS**
 
 - 📫 How to reach me **escrevaparajames@hotmail.com**
 
-- ⚡ Add me, I’m looking to collaborate with new projects😜**
-
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="20" height="20"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="ps" width="20" height="20"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="20" height="20"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 
 </p>
