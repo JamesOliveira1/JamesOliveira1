@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **escrevaparajames@hotmail.com**
 
+<br>
+
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/>
