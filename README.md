@@ -1,6 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm James</h1>
 <h3 align="center">A Beginner Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JamesOliveira1" alt="JamesOliveira1" /> </p>
+<br>
 
 - 🔭 I’m looking for a job anywhere at [Linkedin profile](https://www.linkedin.com/in/jamesoliveira1/)
 
@@ -11,7 +12,6 @@
 - 🌱 Today, focus on **C#, Angular, Bootstrap, Jquery, JS**
 
 - 📫 How to reach me **escrevaparajames@hotmail.com**
-
 <br>
 
 <p align="left">
