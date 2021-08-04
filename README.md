@@ -1,8 +1,8 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm James</h1>
 <h3 align="center">A Beginner Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JamesOliveira1" alt="JamesOliveira1" /> </p>
-<br>
-- 🔭 I’m looking for a job anywhere at [Linkedin profile](https://www.linkedin.com/in/jamesoliveira1/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JamesOliveira1" alt="JamesOliveira1" /></p>
+
+- 🔭 I’m looking for a job anywhere at <a href="https://www.linkedin.com/in/jamesoliveira1/">Linkedin profile</a>
 
 - 👨‍💻 All of my projects will be available here [Github profile](https://github.com/JamesOliveira1)
 
