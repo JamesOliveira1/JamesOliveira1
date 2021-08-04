@@ -2,7 +2,6 @@
 <h3 align="center">A Beginner Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JamesOliveira1" alt="JamesOliveira1" /> </p>
 <br>
-
 - 🔭 I’m looking for a job anywhere at [Linkedin profile](https://www.linkedin.com/in/jamesoliveira1/)
 
 - 👨‍💻 All of my projects will be available here [Github profile](https://github.com/JamesOliveira1)
