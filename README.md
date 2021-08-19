@@ -8,7 +8,7 @@
 
 - ▶️ I'm dedicated person and I can learn anything 
 
-- 🌱 Today, focus on **C#, Angular, Bootstrap, Jquery, JS**
+- 🌱 Today, focus on **C#, Asp.Net MVC, Angular, Bootstrap**
 
 - 📫 How to reach me **escrevaparajames@hotmail.com**
 <br>
